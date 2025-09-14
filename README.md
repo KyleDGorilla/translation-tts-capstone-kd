@@ -13,14 +13,14 @@
 This capstone project is a comprehensive web application that enables users to translate text into various languages and convert the translated text into speech with downloadable audio files. The application leverages Google's Gemini API for translation and Google Text-to-Speech (gTTS) for speech synthesis, all wrapped in an intuitive Streamlit web interface.
 
 ### Key Features
-- 🌍 **Multi-language Translation**: Support for 15+ languages using Google Gemini API
-- 🔊 **Text-to-Speech**: Convert translations to audio with normal/slow speed options
-- 📁 **File Upload Support**: Process TXT, PDF, CSV, Excel, and Word documents
-- 🎵 **Audio Download**: Generate and download MP3 files
-- 📊 **Usage Statistics**: Track translation and audio generation metrics
-- 🔍 **Language Detection**: Automatic detection of input text characteristics
-- ⚡ **Real-time Processing**: Instant translation and audio generation
-- 🛡️ **Input Validation**: Comprehensive error handling and user feedback
+- **Multi-language Translation**: Support for 15+ languages using Google Gemini API
+- **Text-to-Speech**: Convert translations to audio with normal/slow speed options
+- **File Upload Support**: Process TXT, PDF, CSV, Excel, and Word documents
+- **Audio Download**: Generate and download MP3 files
+- **Usage Statistics**: Track translation and audio generation metrics
+- **Language Detection**: Automatic detection of input text characteristics
+- **Real-time Processing**: Instant translation and audio generation
+- **Input Validation**: Comprehensive error handling and user feedback
 
 ---
 
