@@ -381,5 +381,5 @@ The application provides practical value for breaking down language barriers and
 **Course:** Generative AI and ML Capstone Project  
 **Institution:** Illinois Institute of Technology
 
-**Project Repository:** [GitHub URL if applicable]  
-**Submission Date:** [Date]
+**Project Repository:** https://github.com/KyleDGorilla/translation-tts-capstone-kd  
+**Submission Date:** 09/14/2025
